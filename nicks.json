@@ -1,6 +1,8 @@
-glav=Anthony_Howard
-zam1=Benedict_Trench
-zam2=Nick_Name
-zam3=Nick_Name
-zam4=Nick_Name
-zam5=Nick_Name
+{
+  "glav": "Anthony_Howard",
+  "zam1": "Benedict_Trench",
+  "zam2": "Nick_Name",
+  "zam3": "Nick_Name",
+  "zam4": "Nick_Name",
+  "zam5": "Nick_Name"
+}
